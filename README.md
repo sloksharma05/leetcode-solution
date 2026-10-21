@@ -26,6 +26,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sloksharma05/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/sloksharma05/leetcode-solution/tree/main/0006-zigzag-conversion/) | Medium |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sloksharma05/leetcode-solution/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
