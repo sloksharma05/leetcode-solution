@@ -23,6 +23,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sloksharma05/leetcode-solution/tree/master/0002-add-two-numbers) |Medium|
+| [2409-count-days-spent-together](https://github.com/sloksharma05/leetcode-solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/sloksharma05/leetcode-solution/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -34,6 +35,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sloksharma05/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |Medium|
 | [0005-longest-palindromic-substring](https://github.com/sloksharma05/leetcode-solution/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/sloksharma05/leetcode-solution/tree/main/0006-zigzag-conversion/) | Medium |
+| [2409-count-days-spent-together](https://github.com/sloksharma05/leetcode-solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sloksharma05/leetcode-solution/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
