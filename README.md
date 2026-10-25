@@ -36,6 +36,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sloksharma05/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |Medium|
 | [0005-longest-palindromic-substring](https://github.com/sloksharma05/leetcode-solution/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/sloksharma05/leetcode-solution/tree/main/0006-zigzag-conversion/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/sloksharma05/leetcode-solution/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [2409-count-days-spent-together](https://github.com/sloksharma05/leetcode-solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sloksharma05/leetcode-solution/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Sliding Window
