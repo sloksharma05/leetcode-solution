@@ -24,6 +24,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sloksharma05/leetcode-solution/tree/master/0002-add-two-numbers) |Medium|
 | [0007-reverse-integer](https://github.com/sloksharma05/leetcode-solution/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/sloksharma05/leetcode-solution/tree/main/0009-palindrome-number/) | Easy |
 | [2409-count-days-spent-together](https://github.com/sloksharma05/leetcode-solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/sloksharma05/leetcode-solution/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Recursion
