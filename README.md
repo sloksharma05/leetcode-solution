@@ -41,6 +41,7 @@
 | [0005-longest-palindromic-substring](https://github.com/sloksharma05/leetcode-solution/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/sloksharma05/leetcode-solution/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/sloksharma05/leetcode-solution/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0020-valid-parentheses](https://github.com/sloksharma05/leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
 | [2409-count-days-spent-together](https://github.com/sloksharma05/leetcode-solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sloksharma05/leetcode-solution/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sloksharma05/leetcode-solution/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
@@ -129,4 +130,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sloksharma05/leetcode-solution/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/sloksharma05/leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/sloksharma05/leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
