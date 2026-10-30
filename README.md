@@ -42,6 +42,7 @@
 | [0008-string-to-integer-atoi](https://github.com/sloksharma05/leetcode-solution/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [2409-count-days-spent-together](https://github.com/sloksharma05/leetcode-solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sloksharma05/leetcode-solution/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sloksharma05/leetcode-solution/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,4 +100,16 @@
 | ------- | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sloksharma05/leetcode-solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sloksharma05/leetcode-solution/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sloksharma05/leetcode-solution/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sloksharma05/leetcode-solution/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sloksharma05/leetcode-solution/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 <!---LeetCode Topics End-->
