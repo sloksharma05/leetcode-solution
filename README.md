@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sloksharma05/leetcode-solution/tree/master/0001-two-sum) |Easy|
 | [0004-median-of-two-sorted-arrays](https://github.com/sloksharma05/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/sloksharma05/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sloksharma05/leetcode-solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy|
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sloksharma05/leetcode-solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sloksharma05/leetcode-solution/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
@@ -93,19 +94,23 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/sloksharma05/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sloksharma05/leetcode-solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sloksharma05/leetcode-solution/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/sloksharma05/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sloksharma05/leetcode-solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/sloksharma05/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sloksharma05/leetcode-solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/sloksharma05/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sloksharma05/leetcode-solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/sloksharma05/leetcode-solution/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sloksharma05/leetcode-solution/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
