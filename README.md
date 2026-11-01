@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sloksharma05/leetcode-solution/tree/master/0001-two-sum) |Easy|
 | [0004-median-of-two-sorted-arrays](https://github.com/sloksharma05/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sloksharma05/leetcode-solution/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/sloksharma05/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sloksharma05/leetcode-solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy|
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sloksharma05/leetcode-solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -30,6 +31,7 @@
 | [0002-add-two-numbers](https://github.com/sloksharma05/leetcode-solution/tree/master/0002-add-two-numbers) |Medium|
 | [0007-reverse-integer](https://github.com/sloksharma05/leetcode-solution/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/sloksharma05/leetcode-solution/tree/main/0009-palindrome-number/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sloksharma05/leetcode-solution/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [2409-count-days-spent-together](https://github.com/sloksharma05/leetcode-solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/sloksharma05/leetcode-solution/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Recursion
