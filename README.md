@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/sloksharma05/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sloksharma05/leetcode-solution/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/sloksharma05/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sloksharma05/leetcode-solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sloksharma05/leetcode-solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy|
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sloksharma05/leetcode-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sloksharma05/leetcode-solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -64,10 +65,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sloksharma05/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sloksharma05/leetcode-solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sloksharma05/leetcode-solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sloksharma05/leetcode-solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sloksharma05/leetcode-solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/sloksharma05/leetcode-solution/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Enumeration
@@ -89,6 +92,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sloksharma05/leetcode-solution/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sloksharma05/leetcode-solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
