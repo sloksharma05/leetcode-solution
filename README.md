@@ -10,6 +10,7 @@
 | [1254-number-of-closed-islands](https://github.com/sloksharma05/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sloksharma05/leetcode-solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sloksharma05/leetcode-solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy|
+| [2747-count-zero-request-servers](https://github.com/sloksharma05/leetcode-solution/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sloksharma05/leetcode-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sloksharma05/leetcode-solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sloksharma05/leetcode-solution/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
@@ -24,6 +25,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sloksharma05/leetcode-solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sloksharma05/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |Medium|
+| [2747-count-zero-request-servers](https://github.com/sloksharma05/leetcode-solution/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sloksharma05/leetcode-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
@@ -60,6 +62,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sloksharma05/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |Medium|
+| [2747-count-zero-request-servers](https://github.com/sloksharma05/leetcode-solution/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sloksharma05/leetcode-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -72,6 +75,7 @@
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sloksharma05/leetcode-solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sloksharma05/leetcode-solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/sloksharma05/leetcode-solution/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/sloksharma05/leetcode-solution/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
