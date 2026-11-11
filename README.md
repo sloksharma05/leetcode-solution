@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/sloksharma05/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sloksharma05/leetcode-solution/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/sloksharma05/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/sloksharma05/leetcode-solution/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sloksharma05/leetcode-solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1882-process-tasks-using-servers](https://github.com/sloksharma05/leetcode-solution/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sloksharma05/leetcode-solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy|
@@ -115,22 +116,26 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/sloksharma05/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/sloksharma05/leetcode-solution/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sloksharma05/leetcode-solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sloksharma05/leetcode-solution/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/sloksharma05/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/sloksharma05/leetcode-solution/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sloksharma05/leetcode-solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/sloksharma05/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/sloksharma05/leetcode-solution/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sloksharma05/leetcode-solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/sloksharma05/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/sloksharma05/leetcode-solution/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sloksharma05/leetcode-solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/sloksharma05/leetcode-solution/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sloksharma05/leetcode-solution/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -168,4 +173,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sloksharma05/leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/sloksharma05/leetcode-solution/tree/main/1267-count-servers-that-communicate/) | Medium |
 <!---LeetCode Topics End-->
