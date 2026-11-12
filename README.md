@@ -13,6 +13,7 @@
 | [1882-process-tasks-using-servers](https://github.com/sloksharma05/leetcode-solution/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sloksharma05/leetcode-solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy|
 | [2747-count-zero-request-servers](https://github.com/sloksharma05/leetcode-solution/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sloksharma05/leetcode-solution/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sloksharma05/leetcode-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sloksharma05/leetcode-solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sloksharma05/leetcode-solution/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
