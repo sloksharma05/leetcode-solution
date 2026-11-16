@@ -10,6 +10,7 @@
 | [1254-number-of-closed-islands](https://github.com/sloksharma05/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/sloksharma05/leetcode-solution/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sloksharma05/leetcode-solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sloksharma05/leetcode-solution/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sloksharma05/leetcode-solution/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/sloksharma05/leetcode-solution/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sloksharma05/leetcode-solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy|
@@ -45,6 +46,7 @@
 | [0007-reverse-integer](https://github.com/sloksharma05/leetcode-solution/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/sloksharma05/leetcode-solution/tree/main/0009-palindrome-number/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sloksharma05/leetcode-solution/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sloksharma05/leetcode-solution/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2409-count-days-spent-together](https://github.com/sloksharma05/leetcode-solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sloksharma05/leetcode-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sloksharma05/leetcode-solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -111,6 +113,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sloksharma05/leetcode-solution/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sloksharma05/leetcode-solution/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sloksharma05/leetcode-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/sloksharma05/leetcode-solution/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/sloksharma05/leetcode-solution/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -211,5 +214,6 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sloksharma05/leetcode-solution/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/sloksharma05/leetcode-solution/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
