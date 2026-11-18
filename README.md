@@ -65,6 +65,7 @@
 | [0020-valid-parentheses](https://github.com/sloksharma05/leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sloksharma05/leetcode-solution/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/sloksharma05/leetcode-solution/tree/main/2409-count-days-spent-together/) | Easy |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sloksharma05/leetcode-solution/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sloksharma05/leetcode-solution/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sloksharma05/leetcode-solution/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sloksharma05/leetcode-solution/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
