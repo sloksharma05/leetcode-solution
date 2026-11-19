@@ -14,6 +14,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sloksharma05/leetcode-solution/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/sloksharma05/leetcode-solution/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sloksharma05/leetcode-solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy|
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sloksharma05/leetcode-solution/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/sloksharma05/leetcode-solution/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sloksharma05/leetcode-solution/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/sloksharma05/leetcode-solution/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -88,6 +89,7 @@
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sloksharma05/leetcode-solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sloksharma05/leetcode-solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sloksharma05/leetcode-solution/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/sloksharma05/leetcode-solution/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/sloksharma05/leetcode-solution/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Enumeration
@@ -217,4 +219,8 @@
 | ------- | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sloksharma05/leetcode-solution/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/sloksharma05/leetcode-solution/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sloksharma05/leetcode-solution/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 <!---LeetCode Topics End-->
